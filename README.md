@@ -26,6 +26,8 @@ driver = webdriver.Chrome(service=servico)
 
 ## Rodar o Código
 
+* Informações Importantes, é necessário ter o Anaconda Instalado na Máquina.
+
 1. Realize o clone do Repositório, podendo usar o comando do git cli no terminal:
 ```sh
 gh repo clone cordeiro-dados/Neoway
