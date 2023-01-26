@@ -51,6 +51,8 @@ conda activate ufs-env
 source activate ufs-env
 ```
 * Verifique no terminal se está no Ambiente (ufs-env).
+* Verifique também se o Interpreter está o ufs-env:
+![Screenshot](img.png)
 * Após, execute então o arquivo Python:
 ```sh
 python data.py
