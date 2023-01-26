@@ -35,12 +35,12 @@ gh repo clone cordeiro-dados/Neoway
 * Ou baixando o Zip do Repositório.
   * Que para este caso, se encontra na Branch neoway
 
-## Configurar o Envarioment
+## Configurar o Environment
 * Ao abrir a Pasta ou Repositório na máquina, abrindo o terminal, execute o seguinte comando:
 ```sh
 conda env create -f env.yml
 ```
->Esse comando faz com que baixa o Envarioment criado para o projeto, em seguida execute um dos dos códigos informados em seguida.
+>Esse comando faz com que baixa o Environment criado para o projeto, em seguida execute um dos dos códigos informados em seguida.
 
 * Para executar o código, primeiramente deve-se acessar o terminal dentro da pasta onde clonou e executar o seguinte comando:
 ```sh
