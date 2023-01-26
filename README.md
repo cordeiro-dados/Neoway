@@ -30,7 +30,8 @@ driver = webdriver.Chrome(service=servico)
 ```sh
 gh repo clone cordeiro-dados/Neoway
 ```
-2. Ou baixando o Zip do Repositório.
+* Ou baixando o Zip do Repositório.
+  * Que para este caso, se encontra na Branch neoway
 
 * Para executar o código, primeiramente deve-se acessar o terminal dentro da pasta onde clonou e executar o seguinte comando:
 ```sh
