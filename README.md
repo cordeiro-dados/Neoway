@@ -28,7 +28,7 @@ driver = webdriver.Chrome(service=servico)
 
 1. Realize o clone do Repositório, podendo usar o comando do git cli no terminal:
 ```sh
-gh repo clone cordeiro-dados/UFs
+gh repo clone cordeiro-dados/Neoway
 ```
 2. Ou baixando o Zip do Repositório.
 
